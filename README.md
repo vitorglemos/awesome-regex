@@ -9,3 +9,7 @@
 
 ## Email Validation 
 - **Email**: `[a-zA-Z0-9._-]{3,}@[a-zA-Z0-9.-]{3,}\.[a-zA-Z]{2,4}`, **match**: `testvalidation@gmail.com`
+
+
+## IP Address
+- **IPV4**: `^((25[0-5]|(2[0-4]|1\d|[1-9]|)\d)(\.(?!$)|$)){4}$`, , **match**: `192.168.0.1`
